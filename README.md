@@ -1,2 +1,3 @@
-# resto_project_with_php
-Software para restaurantes que permite tener un menu digital y mostrar los platillos de el menu en 3D usando la camara de el dispositivo
+# MENIQ
+
+Se va a tratar de un Saas que permita gestionar los menus de los restaurantes. Mas adelante quiero implementar un sistema para que se puedan ver los platillos en 3D y tambien que se puedan hacer pedidos asi como tambien cobrar los servicios.
